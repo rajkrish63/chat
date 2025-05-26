@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime files
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv files (if you add env vars later)
+.env
+.env.local
+.env.*.local
+
+# OS-related
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Optional: output/debug folders
+dist/
+build/
+debug/
+
+# Render build cache (optional, if used)
+.cache/
